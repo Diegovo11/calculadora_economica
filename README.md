@@ -1,4 +1,4 @@
-# punto_venta
+# Calculadora Economica
 
 A new Flutter project.
 
